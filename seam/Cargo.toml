@@ -1,0 +1,8 @@
+[package]
+name = "wasm_seam"
+version = "0.0.2"
+description = "WASM tooling"
+authors = { workspace = true }
+edition = { workspace = true }
+license = { workspace = true }
+repository = { workspace = true }
